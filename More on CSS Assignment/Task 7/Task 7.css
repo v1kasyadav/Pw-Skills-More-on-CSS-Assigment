@@ -1,0 +1,24 @@
+.card {
+    background-color: rgb(240, 188, 46);
+    width: 320px;
+    height: 230px;
+    border: 8px black;
+    border-radius: 10px;
+}
+
+.card img {
+    border: 1px black;
+    border-radius: 20px;
+    width: 296px;
+    padding: 10px;
+}
+
+.card p {
+    padding: 10px;
+    margin: 0;
+}
+
+.card:hover {
+    opacity: 0.5;
+}
+
